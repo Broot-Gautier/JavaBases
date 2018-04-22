@@ -5,5 +5,5 @@
 - [x] enum
 - [x] variables
 - [x] loops
-- [ ] classes
+- [x] classes
 - [ ] objects
