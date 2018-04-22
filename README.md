@@ -4,6 +4,6 @@
 - [x] DataTypes
 - [x] enum
 - [x] variables
-- [ ] loops
+- [x] loops
 - [ ] classes
 - [ ] objects
