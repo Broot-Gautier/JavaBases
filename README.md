@@ -3,7 +3,7 @@
 ## TODO
 - [x] DataTypes
 - [x] enum
-- [ ] variables
+- [x] variables
 - [ ] loops
 - [ ] classes
 - [ ] objects
